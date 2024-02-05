@@ -28,3 +28,5 @@ Advanced Planning algorithms:
 ![alt text](./media/RRTstar.jpg "RRT star")
 ![alt text](./media/informed_RRTstar.jpg "Informed RRT star")
 ![alt text](./media/Dstar.jpg "D star")
+
+Author : Jay Patel
